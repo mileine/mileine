@@ -6,7 +6,7 @@ Hi! I’m Mi — a frontend developer and lifelong learner passionate about how 
 
 I’ve been in the tech industry for over 15 years.  
 
-In 2019, I experienced burnout, which made me more conscious of my mental health.  
+In 2019, I experienced burnout, which made me more aware of the importance of taking care of my mental health.
 Since 2020, I’ve been working daily to build a sustainable way to keep growing — both as a professional and as a person.  
 
 After transitioning to frontend development in 2022, I realized I still faced deep challenges with **mental health** and **focus**.  
