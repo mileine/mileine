@@ -30,7 +30,7 @@ I truly ♥️ learning — it’s a source of pure ✨JOY✨.
 
 ---
 
-### 🧩 Featured Projects
+### 🧩 Projects (in progress)
 
 - 🌿 [**Tamie Integrativa**](https://github.com/mileine/tamie-integrativa) — bridging integrative health and technology  
 - 🚀 [**My Long and Winding Road**](https://github.com/mileine/my-long-and-winding-road) — a Next.js + Tailwind blog documenting the creative journey with GenAI  
