@@ -46,7 +46,7 @@ What I’ve learned along the way:
 
 - **Authenticity protects my mental health.**  
 - **Foundation matters.**  
-- ⚠️ Caring for mental health is **an essential part** of professional development.  
+- **Caring for mental health is an ESSENCIAL PART of professional development.**  
 
 And last but not least 👇  
 
