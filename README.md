@@ -87,6 +87,6 @@ And last but not least 👇
 
 ---
 
-🪶 *This README was written with ChatGPT assistance, based on [old-about-me.md](/mileine/old-about-me.md).*  
+🪶 *This README was written with ChatGPT assistance, based on [old-about-me.md](old-about-me.md).*  
 
 `last edited: 2025/11/08`
