@@ -32,8 +32,8 @@ I truly ♥️ learning — it’s a source of pure ✨JOY✨.
 
 ### 🧩 Projects (in progress)
 
+- 🌀 [**My Long and Winding Road**](https://github.com/mileine/my-long-and-winding-road) — a Next.js + Tailwind blog documenting my journey in Tech with a little help from GenAI
 - 🌿 [**Tamie Integrativa**](https://github.com/mileine/tamie-integrativa) — bridging integrative health and technology  
-- 🚀 [**My Long and Winding Road**](https://github.com/mileine/my-long-and-winding-road) — a Next.js + Tailwind blog documenting the creative journey with GenAI
 - 👩🏻‍💻 [**clone-tabnews**](https://github.com/mileine/clone-tabnews) - tabnews clone: created as part of [curso.dev](https://curso.dev/) lessons  
 - 🧠 [**Meu Livro da Vida**](https://meulivrodavida.com) — an AI-assisted journal experiment exploring self-knowledge and emotional healing  
 
