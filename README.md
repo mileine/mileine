@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 Frontend Engineer
 
-Hi! I’m Mi — a frontend developer and lifelong learner passionate about how technology and creativity can help us reconnect with our authentic selves.  
+Hi! I’m Mi — a frontend developer and lifelong learner passionate about how technology and creative work can help us reconnect with our authentic selves.  
 
 I’ve been in the tech industry for over 15 years.  
 
