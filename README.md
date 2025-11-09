@@ -40,7 +40,6 @@ Now, I’m combining my love for  **learning**, **frontend engineering**, and **
 - 🌀 [**My Long and Winding Road**](https://github.com/mileine/my-long-and-winding-road) — a Next.js + Tailwind blog documenting my journey in Tech with a little help from GenAI
 - 🌿 [**Tamie Integrativa**](https://github.com/mileine/tamie-integrativa) — bridging integrative health and technology  
 - 👩🏻‍💻 [**clone-tabnews**](https://github.com/mileine/clone-tabnews) - tabnews clone: created as part of [curso.dev](https://curso.dev/) lessons  
-- 🧠 [**Meu Livro da Vida**](https://meulivrodavida.com) — an AI-assisted journal experiment exploring self-knowledge and emotional healing  
 
 ---
 
@@ -64,6 +63,12 @@ And last but not least 👇
 - 🌀 **Psychotherapy** – helped me understand my journey, patterns, and beliefs  
 - 👨🏻‍⚕️ **Medical support** – helped me understand I’m on the spectrum (Autism + ADHD) and how to care for my brain  
 - ✨ **Holistic therapies** – help me cultivate peace, balance, and creativity  
+
+---
+
+### 🧩 Project (in progress)
+
+- 🧠 [**Meu Livro da Vida**](https://meulivrodavida.com) — an AI-assisted journal experiment exploring self-knowledge and emotional healing  
 
 ---
 
