@@ -39,7 +39,7 @@ Now, I’m combining my love for  **learning**, **frontend engineering**, and **
 ### 🧩 Projects (in progress)
 
 - 🌀 [**My Long and Winding Road**](https://github.com/mileine/my-long-and-winding-road) — a Next.js + Tailwind blog documenting my journey in Tech with a little help from GenAI
-- 🌿 [**Tamie Integrativa**](https://github.com/mileine/tamie-integrativa) — bridging integrative health and technology  
+- 🌿 [**Tamie Integrativa**](https://github.com/mileine/tamie-integrativa) — built with Next.js and Tailwind, this blog reflects how integrative health practices have been key to my healing and to unlocking my best work as a frontend developer.
 - 👩🏻‍💻 [**clone-tabnews**](https://github.com/mileine/clone-tabnews) - tabnews clone: created as part of [curso.dev](https://curso.dev/) lessons  
 
 ---
