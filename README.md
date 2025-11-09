@@ -10,7 +10,7 @@ In 2019, I experienced burnout, which made me realize how important it is to car
 By September 2020, I had finally gathered the courage to take meaningful action toward healing and seek professional help.
 That journey transformed many areas of my life — including my career, as I transitioned from a Generalist Software Analyst to a Frontend Engineer.
 
-After moving into frontend development in 2022, I realized I was still facing deep challenges with mental health and focus.
+After moving into frontend development in 2022, I realized I was still facing deep challenges with mental and emotional health.
 I needed to keep working on rebuilding my emotional foundation before I could truly dedicate time and energy to growing my coding skills outside of work.
 
 That inner work has changed everything. It was so worth it! ✨🤍✨
