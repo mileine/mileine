@@ -27,6 +27,7 @@ Now, I’m combining my love for  **learning**, **frontend engineering**, and **
 
 ### 🌱 What I’m Exploring Now
 
+- [Frontend Mentor Challenges](https://www.frontendmentor.io/home)
 - Building blogs with **Next.js + React + Tailwind CSS**  
 - Experimenting with **GenAI** as a creative partner  
 - Integrating emotional well-being and tech learning  
@@ -40,6 +41,16 @@ Now, I’m combining my love for  **learning**, **frontend engineering**, and **
 - 🌀 [**My Long and Winding Road**](https://github.com/mileine/my-long-and-winding-road) — a Next.js + Tailwind blog documenting my journey in Tech with a little help from GenAI
 - 🌿 [**Tamie Integrativa**](https://github.com/mileine/tamie-integrativa) — bridging integrative health and technology  
 - 👩🏻‍💻 [**clone-tabnews**](https://github.com/mileine/clone-tabnews) - tabnews clone: created as part of [curso.dev](https://curso.dev/) lessons  
+
+---
+
+### 🛠️ Tech Stack
+
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
 
 ---
 
@@ -69,16 +80,6 @@ And last but not least 👇
 ### 🧩 Project (in progress)
 
 - 🧠 [**Meu Livro da Vida**](https://meulivrodavida.com) — an AI-assisted journal experiment exploring self-knowledge and emotional healing  
-
----
-
-### 🛠️ Tech Stack
-
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
 
 ---
 
