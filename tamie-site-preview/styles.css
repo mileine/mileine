@@ -518,6 +518,7 @@ img{max-width:100%}
 .video__note{margin:var(--space-sm) 0 0;text-align:center;font-size:13px;color:var(--text-subtle)}
 
 .service-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:var(--space-lg);align-items:stretch}
+.service-grid--single{grid-template-columns:1fr;max-width:480px;margin:0 auto}
 .service{display:flex;flex-direction:column;gap:var(--space-md)}
 .service__title{margin:0;font-family:var(--font-display);font-size:34px;line-height:1.05;color:var(--navy-700)}
 .service__desc{margin:0;font-size:15.5px;line-height:1.75;color:var(--text-muted)}
